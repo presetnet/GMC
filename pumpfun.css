@@ -1,6 +1,6 @@
 body {
-    background-color: black;
-    color: white;
+    background-color: white;
+    color: black;
     font-family: 'Courier New', Courier, monospace;
     margin: 0;
     display: flex;
@@ -11,7 +11,7 @@ body {
     text-align: center;
 }
 a {
-    color: white;
+    color: black;
 
 }
 .logo {
@@ -50,12 +50,12 @@ a {
     overflow-wrap: break-word; /* Break long words if necessary */
 }
 
-@media (max-width: 768px) {
+@media (max-width: 268px) {
     .social-media span {
         font-size: 3vw;
     }
 }
-@media (min-width: 769px) {
+@media (min-width: 269px) {
     .social-media span {
         font-size: 1em; 
     }
