@@ -18,7 +18,7 @@ a {
     margin-bottom: 20px;
 }
 .logo img {
-    max-width: 350px;
+    max-width: 150px;
 }
 .time {
     margin-bottom: 40px;
@@ -50,7 +50,7 @@ a {
     overflow-wrap: break-word; /* Break long words if necessary */
 }
 
-@media (max-width: 68px) {
+@media (max-width: 268px) {
     .social-media span {
         font-size: 3vw;
     }
