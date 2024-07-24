@@ -50,12 +50,12 @@ a {
     overflow-wrap: break-word; /* Break long words if necessary */
 }
 
-@media (max-width: 268px) {
+@media (max-width: 68px) {
     .social-media span {
         font-size: 3vw;
     }
 }
-@media (min-width: 269px) {
+@media (min-width: 69px) {
     .social-media span {
         font-size: 1em; 
     }
